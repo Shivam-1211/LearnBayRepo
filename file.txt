@@ -2,3 +2,4 @@ Hello world
 welcome to class 3rd
 Git Commands 
 git init, git status
+This has been added by the collaborator
